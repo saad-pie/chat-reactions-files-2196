@@ -1,0 +1,1 @@
+// This script can be used for any future interactivity, such as animations, form handling, or dynamic content loading.For this static descriptive page, no complex JavaScript is required.
